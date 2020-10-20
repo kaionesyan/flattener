@@ -1,6 +1,6 @@
 # Flattener Plugin
 
-[![pub package](https://img.shields.io/pub/v/location.svg)](https://pub.dev/packages/flattener)
+[![pub package](https://img.shields.io/pub/v/flattener.svg)](https://pub.dev/packages/flattener)
 
 A simple tool that helps you flatten and unflatten dart Maps.
 
