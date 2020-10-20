@@ -1,6 +1,6 @@
 name: flattener
-description: Flatten and unflatten maps easily using this package.
-version: 0.0.1+1
+description: Flatten and unflatten maps easily using this package. It exposes two methods with the names described previously. Currently only maps of type Map<String, dynamic> are supported.
+version: 0.0.1+2
 homepage: https://github.com/kaionesyan/flattener
 
 environment:
